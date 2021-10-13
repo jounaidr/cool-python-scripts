@@ -1,8 +1,6 @@
 ## cool-python-scripts
 cool python scripts 😎
 
----
-
 [1]
 
 ![:(](https://github.com/jounaidr/cool-python-scripts/blob/main/img/spongebob-text-gen.jpg)
